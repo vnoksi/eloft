@@ -1,0 +1,22 @@
+{
+  "id":"paquebot",
+  "name":"Paquebot",
+  "price": 238500
+  "optionsGroups": [
+    {
+      "id": "menuiseries_exterieures",
+      "label": "Menuiseries extérieures",
+      "options": [
+        {
+          "id": "menuiseries_exterieures_alu_anthracite_pvc_blanc",
+          "label": "Menuiseries Alu anthracite / PVC blanc",
+          "price": 6050,
+          "input": {
+           "type": "radio",
+           "name": "menuiseries_exterieures"
+          }
+        }
+      ]
+    }
+  ]
+}
