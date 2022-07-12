@@ -8,12 +8,20 @@
       "label": "Menuiseries extérieures",
       "options": [
         {
-          "id": "menuiseries_exterieures_alu_anthracite_pvc_blanc",
+          "id": "101",
           "label": "Menuiseries Alu anthracite / PVC blanc",
           "price": 6050,
           "input": {
-           "type": "radio",
-           "name": "menuiseries_exterieures"
+            "type": "radio",
+            "name": "menuiseries_exterieures",
+            "exclude": [
+              ""
+            ]
+          },
+          "infos": {
+            "title": "Menuiseries Alu anthracite / PVC blanc",
+            "text": "<p>Lorem ipsum</p>",
+            "visual": "menuiseries_exterieures_alu_anthracite_pvc_blanc.jpg"
           }
         }
       ]
