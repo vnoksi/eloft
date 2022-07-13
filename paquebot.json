@@ -80,6 +80,44 @@
           "excludeList": []
         }
       ]
+    },
+    {
+      "id": "test_exclude",
+      "label": "Text Exclusion",
+      "options": [
+        {
+          "id": "300",
+          "label": "Test exclusion option 1",
+          "price": 150,
+          "input": {
+            "type": "checkbox",
+            "name": "test_exclusion_option_1"
+          },
+          "hasInfos": true,
+          "excludeList": ["301"]
+        },
+        {
+          "id": "301",
+          "label": "Test exclusion option 2",
+          "price": 642,
+          "input": {
+            "type": "checkbox",
+            "name": "test_exclusion_option_2"
+          },
+          "hasInfos": true,
+          "excludeList": []
+        },
+        {
+          "id": "302",
+          "label": "Test exclusion option 3",
+          "price": 1605,
+          "input": {
+            "type": "checkbox",
+            "name": "test_exclusion_option_3"
+          },
+          "excludeList": ["300", "301"]
+        }
+      ]
     }
   ]
 }
