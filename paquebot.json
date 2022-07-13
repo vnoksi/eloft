@@ -37,6 +37,11 @@
             "type": "radio",
             "name": "menuiseries_exterieures"
           },
+          "infos": {
+            "title": "Menuiseries Alu anthracite / PVC blanc",
+            "text": "<p>fdsffsdfds</p>",
+            "visual": "menuiseries_alu_anthracite_pvc_blanc.jpg"
+          },
           "excludeList": []
         },
         {
