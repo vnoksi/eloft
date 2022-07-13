@@ -16,6 +16,7 @@
             "name": "menuiseries_exterieures",
             "isSelected": true
           },
+          "hasInfos": true
           "excludeList": []
         },
         {
@@ -26,6 +27,7 @@
             "type": "radio",
             "name": "menuiseries_exterieures"
           },
+          "hasInfos": true
           "excludeList": []
         },
         {
@@ -53,6 +55,7 @@
             "name": "bardages_exterieurs_1",
             "isSelected": true
           },
+          "hasInfos": true
           "excludeList": []
         },
         {
@@ -63,6 +66,7 @@
             "type": "radio",
             "name": "bardages_exterieurs_1"
           },
+          "hasInfos": true
           "excludeList": []
         },
         {
