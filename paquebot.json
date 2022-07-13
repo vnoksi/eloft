@@ -13,7 +13,7 @@
           "price": 0,
           "input": {
             "type": "radio",
-            "name": "menuiseries_exterieures"
+            "name": "menuiseries_exterieures",
             "isSelected": true
           },
           "excludeList": []
@@ -50,7 +50,7 @@
           "price": 0,
           "input": {
             "type": "radio",
-            "name": "bardages_exterieurs_1"
+            "name": "bardages_exterieurs_1",
             "isSelected": true
           },
           "excludeList": []
