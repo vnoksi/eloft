@@ -108,7 +108,7 @@
     },
     {
       "id": "test_exclude",
-      "label": "Text Exclusion",
+      "label": "Test Exclusion",
       "options": [
         {
           "id": "300",
