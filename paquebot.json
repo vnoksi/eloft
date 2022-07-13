@@ -8,21 +8,25 @@
       "label": "Menuiseries extérieures",
       "options": [
         {
+          "id": "100",
+          "label": "Menuiseries PVC blanc",
+          "price": 0,
+          "input": {
+            "type": "radio",
+            "name": "menuiseries_exterieures"
+            "isSelected": true
+          },
+          "excludeList": []
+        },
+        {
           "id": "101",
           "label": "Menuiseries Alu anthracite / PVC blanc",
           "price": 6050,
           "input": {
             "type": "radio",
-            "name": "menuiseries_exterieures",
-            "exclude": [
-              ""
-            ]
+            "name": "menuiseries_exterieures"
           },
-          "infos": {
-            "title": "Menuiseries Alu anthracite / PVC blanc",
-            "text": "<p>Lorem ipsum</p>",
-            "visual": "menuiseries_exterieures_alu_anthracite_pvc_blanc.jpg"
-          }
+          "excludeList": []
         },
         {
           "id": "102",
@@ -30,16 +34,46 @@
           "price": 8000,
           "input": {
             "type": "radio",
-            "name": "menuiseries_exterieures",
-            "exclude": [
-              ""
-            ]
+            "name": "menuiseries_exterieures"
           },
-          "infos": {
-            "title": "Menuiseries Alu 7016 \"gris Anthracite\"",
-            "text": "<p>Lorem ipsum</p>",
-            "visual": "menuiseries_exterieures_alu_anthracite.jpg"
-          }
+          "excludeList": []
+        }
+      ]
+    },
+    {
+      "id": "bardages_exterieurs_1",
+      "label": "Bardages extérieurs - emplacement 1",
+      "options": [
+        {
+          "id": "200",
+          "label": "Bardage VIROC couleur gris naturel",
+          "price": 0,
+          "input": {
+            "type": "radio",
+            "name": "bardages_exterieurs_1"
+            "isSelected": true
+          },
+          "excludeList": []
+        },
+        {
+          "id": "201",
+          "label": "Bardage VIROC couleur gris anthracite",
+          "price": 642,
+          "input": {
+            "type": "radio",
+            "name": "bardages_exterieurs_1"
+          },
+          "excludeList": []
+        },
+        {
+          "id": "202",
+          "label": "Bardage acier Spondine de chez SPO",
+          "price": 1605,
+          "input": {
+            "type": "radio",
+            "name": "bardages_exterieurs_1"
+          },
+          "excludeList": []
         }
       ]
     }
