@@ -120,45 +120,6 @@
       ]
     },
     {
-      "id": "bardages_exterieurs_1",
-      "label": "Bardages extérieurs - emplacement 1",
-      "options": [
-        {
-          "id": "200",
-          "label": "Bardage VIROC couleur gris naturel",
-          "price": 0,
-          "input": {
-            "type": "radio",
-            "name": "bardages_exterieurs_1",
-            "isSelected": true
-          },
-          "hasInfos": true,
-          "excludeList": []
-        },
-        {
-          "id": "201",
-          "label": "Bardage VIROC couleur gris anthracite",
-          "price": 642,
-          "input": {
-            "type": "radio",
-            "name": "bardages_exterieurs_1"
-          },
-          "hasInfos": true,
-          "excludeList": []
-        },
-        {
-          "id": "202",
-          "label": "Bardage acier Spondine de chez SPO",
-          "price": 1605,
-          "input": {
-            "type": "radio",
-            "name": "bardages_exterieurs_1"
-          },
-          "excludeList": []
-        }
-      ]
-    },
-    {
       "id": "divers",
       "label": "Divers",
       "options": [
