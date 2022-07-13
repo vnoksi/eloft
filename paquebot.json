@@ -94,7 +94,7 @@
             "name": "test_exclusion_option_1"
           },
           "hasInfos": true,
-          "excludeList": ["301"]
+          "excludeList": ["302"]
         },
         {
           "id": "301",
@@ -105,7 +105,7 @@
             "name": "test_exclusion_option_2"
           },
           "hasInfos": true,
-          "excludeList": []
+          "excludeList": ["302"]
         },
         {
           "id": "302",
