@@ -23,6 +23,23 @@
             "text": "<p>Lorem ipsum</p>",
             "visual": "menuiseries_exterieures_alu_anthracite_pvc_blanc.jpg"
           }
+        },
+        {
+          "id": "102",
+          "label": "Menuiseries Alu 7016 \"gris Anthracite\"",
+          "price": 8000,
+          "input": {
+            "type": "radio",
+            "name": "menuiseries_exterieures",
+            "exclude": [
+              ""
+            ]
+          },
+          "infos": {
+            "title": "Menuiseries Alu 7016 \"gris Anthracite\"",
+            "text": "<p>Lorem ipsum</p>",
+            "visual": "menuiseries_exterieures_alu_anthracite.jpg"
+          }
         }
       ]
     }
