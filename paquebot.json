@@ -1,6 +1,8 @@
 {
   "id":"paquebot",
   "name":"Paquebot",
+  "type":"T6 / T7",
+  "area":"151.5",
   "startPrice": 238500,
   "optionsGroups": [
     {
